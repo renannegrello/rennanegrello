@@ -1,32 +1,33 @@
-body{
+body {
     color: white;
     background: red;
     margin: 0px;
-    font-family: "UnifrakturMaguntia", sans-serif;
+    font-family: "Titan One" sans-serif;
 }
 
-header{
+header {
     border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
     color: black;
 }
 
-section{
+section {
     background: black;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 5%;
 }
 
-h1{
+h1 {
     font-size: 40px;
 }
 
-p{
+p {
     font-size: 20px;
 }
